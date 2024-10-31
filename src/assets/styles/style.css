@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@400;600;700&display=swap');
+
+:root {
+	--color-purple: #5466ed;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1rem;
+	font-weight: 400;
+	overflow-x: hidden;
+	color: var(--color-purple);
+}
+
+.container {
+	max-width: 1520px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 16px;
+}
